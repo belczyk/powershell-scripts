@@ -12,7 +12,7 @@ choco install winscp
 choco install f.lux
 choco install iTunes
 choco install vlc
-
+choco install skype
 #blocking
 #choco install avastfreeantivirus
 #choco install SourceTree
