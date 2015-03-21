@@ -1,22 +1,20 @@
-choco install GoogleChrome
-choco install ditto
-choco install launchy
-choco install sublimetext2
-choco install SublimeText2.PackageControl -Version 1.6.3
-choco install IrfanView
-choco install thunderbird 
-choco install 7zip
-choco install nodejs.install
-choco install fiddler4 
-choco install winscp
-choco install f.lux
-choco install iTunes
-choco install vlc
-choco install skype
+choco install GoogleChrome -y
+choco install ditto -y
+choco install launchy -y
+choco install sublimetext3 -y
+choco install IrfanView -y
+choco install 7zip -y
+choco install nodejs.install -y
+choco install fiddler4  -y
+choco install winscp -y
+choco install f.lux -y
+choco install iTunes -y
+choco install vlc -y
+choco install skype -y
 #blocking
-#choco install avastfreeantivirus
-#choco install SourceTree
-#choco install ColorPic
+#choco install avastfreeantivirus -y
+#choco install SourceTree -y
+#choco install ColorPic -y
 
 #dependent on other stuff
-#choco install resharper
+#choco install resharper -y
