@@ -1,10 +1,11 @@
-choco install GoogleChrome -y
+
 choco install ditto -y
 choco install launchy -y
-choco install sublimetext3 -y
+choco install sublimetext3.app -y
+choco install sublimetext3.packagecontrol -y
 choco install IrfanView -y
 choco install 7zip -y
-choco install nodejs.install -y
+#choco install nodejs.install -y
 choco install fiddler4  -y
 choco install winscp -y
 choco install f.lux -y
